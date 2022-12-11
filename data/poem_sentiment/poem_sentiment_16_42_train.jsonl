@@ -1,0 +1,16 @@
+{"task": "poem_sentiment", "input": "back to its mansion call the fleeting breath?", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "was she not somewhat that he could not rule", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "her eye proclaims her of the briton line:", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "ez though i wanted to enlist 'em,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "honour to the bugle-horn!", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "all foredoomed to melt away;", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "of the bivouac fire apart,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "when on the boughs the purple buds expand,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "upon whose boughs were wicker cages hung,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "fifty times the brahmins' offer deluged all the floor.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "far, far away, o ye", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "deaf, and dumb, and blind, and cold,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "so thick, she cannot see her lover hiding,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the sundown's golden trail?", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "\u201ci\u2019m going to put you on the farm next to it.\u201d", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the visual nerve is withered to the root,", "output": "negative", "options": ["negative", "no_impact", "positive"]}

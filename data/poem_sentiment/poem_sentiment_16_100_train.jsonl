@@ -1,0 +1,16 @@
+{"task": "poem_sentiment", "input": "that satraps would have shivered at his frown,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "three lives, three strides, three foot-prints in the sand;", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "back to its mansion call the fleeting breath?", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "jarr'd his own golden region; and before", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "endu'd with human voice and human sense,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "afar the melancholy thunder moaned,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "once upon a time, i lay", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "and finde thee knowing not of beasts alone,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "to match your wit against the maker's will,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "you turn, o jeanne, on our mystery", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "augmented, sweet, a hundred fold", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "flood his black hearthstone till its flames expire,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "envy and calumny and hate and pain,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "whose anvil's even din", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "whose potent unity and concentric force", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "take the warm welcome of new friends with thee,", "output": "positive", "options": ["negative", "no_impact", "positive"]}

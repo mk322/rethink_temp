@@ -63,7 +63,7 @@ def main(args):
 
         # in case of random English words, we will create a config file and data directory
         # for each random seed later on (since the data is different across seeds)
-        if args.variant in ["random_english_words", "random_english_words_gold_labels", "proxy_labels", "random", "gold_w_template"]:
+        if args.variant in ["random_english_words", "random_english_words_gold_labels", "proxy_labels", "random", "gold_w_template", "ood_inputs"]:
             with open(os.path.join(config_file, "{}.json".format(new_dataset)), "w") as f:
                 json.dump(config, f)
 
@@ -228,8 +228,12 @@ def main(args):
                                                     "input": sample,
                                                     "output": train_dp["output"],
                                                     "options": train_dp["options"]})
+                        break
                 train_data = new_train_data
 
+                for i in range(len(train_data)):
+                    train_data[i] = train_data[i][0]
+                train_data  = train_data[:16]
             # modify test labels
             if args.variant=="proxy_labels":
                 for dp_idx, dp in enumerate(test_data):
